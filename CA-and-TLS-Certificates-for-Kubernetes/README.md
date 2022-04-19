@@ -18,7 +18,7 @@ Open your terminal application and run the following command:
 
 Type `yes` at the prompt.
 
-Enter your password from the lab instructions page when prompted.
+Enter your password.
 
 ## Provision the Certificate Authority (CA)
 
